@@ -63,7 +63,8 @@
 
 ## 原型文档 
 
-原型文档下载
+![原型文档下载区](https://github.com/NFUNM067/Product-document)
+![原型文档交互展示](https://github.com/NFUNM067/Product-document)
 
 ## 口头操作说明
 
@@ -90,4 +91,4 @@ AI错误率：
 计算卡路里不正确时，接受到用户反馈后，提示用户：'这次数学考试又不及格了，请主人不要举报我，我现在再去算一遍。'
 
 
-更新了README.me
+
