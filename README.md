@@ -38,15 +38,23 @@
 ## 交互及界面设计
 
 1. 登录/授权页面
+
+
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/login.png)
 
 2. 刷脸考勤页面
+
+
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/face.png)
 
 3. 考勤记录页面
+
+
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/records.png)
 
 4. 我的页面
+
+
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/my.png)
 
 ### 原型2.信息设计 5%
