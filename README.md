@@ -122,10 +122,14 @@
 - 接口地址：[https://aip.baidubce.com/rest/2.0/face/v3/faceverify](https://aip.baidubce.com/rest/2.0/face/v3/faceverify)
 - 请求方法：POST
 - 输入
+
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E6%B4%BB%E4%BD%93%E8%BE%93%E5%85%A5.png)
 
 
 - 输出
+
+
+
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E6%B4%BB%E4%BD%93%E8%BE%93%E5%87%BA.png)
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E6%B4%BB%E4%BD%93%E8%BE%93%E5%87%BA1.png)
 
