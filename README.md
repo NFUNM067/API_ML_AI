@@ -104,6 +104,37 @@
 
 ## （十）使用水平
 
+**百度API的使用**
+
+- 人脸识别——人脸对比
+- 接口描述：该请求用于人脸对比，即比对现场采集的照片和采集库里的照片的人脸的相似度，并返回相似度分值。
+- 接口地址：[https://aip.baidubce.com/rest/2.0/face/v3/match](https://aip.baidubce.com/rest/2.0/face/v3/match)
+- 请求方法：POST
+- 输入
+- 输出
+- 测试结果
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E4%BA%BA%E8%84%B8%E5%AF%B9%E6%AF%94%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C.png)
+
+
+
+- 人脸识别——活体检测
+- 接口描述：该请求用于人脸对比，即比对现场采集的照片和采集库里的照片的人脸的相似度，并返回相似度分值。
+- 接口地址：[https://aip.baidubce.com/rest/2.0/face/v3/faceverify](https://aip.baidubce.com/rest/2.0/face/v3/faceverify)
+- 请求方法：POST
+- 输入
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E6%B4%BB%E4%BD%93%E8%BE%93%E5%85%A5.png)
+
+
+- 输出
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E6%B4%BB%E4%BD%93%E8%BE%93%E5%87%BA.png)
+
+
+
+
+- 测试结果
+
+
+
 ## （十一）使用比较分析
 
 百度人脸识别技术，有三大保证：
