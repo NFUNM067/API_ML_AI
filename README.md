@@ -75,15 +75,21 @@
 
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E5%88%B7%E8%84%B8%E8%80%83%E5%8B%A4.png)
 
+
+
 3. 考勤记录页面
 
 
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E8%80%83%E5%8B%A4%E8%AE%B0%E5%BD%95.png)
 
+
+
 4. 我的页面
 
 
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E6%88%91%E7%9A%84.png)
+
+
 
 ## （七）信息设计 
 
@@ -93,6 +99,8 @@
 
 
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E4%BA%BA%E8%84%B8%E8%80%83%E5%8B%A4%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+
 
 
 
