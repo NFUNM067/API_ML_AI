@@ -146,6 +146,7 @@
 
 1. 性价比：从性价比来看，与Face++对比，百度API有更多的免费额度给我们使用，百度一些基础服务API，如人脸对比，活体检测等一些基础服务API可以供我们免费调用，而且调用量可以扩充至更多。[百度API产品价格](http://ai.baidu.com/ai-doc/FACE/Uk37c1m9b)。而Face++API的性价比明显比百度API低，它的产品价格相对来说没有百度API的实惠，而且有很多基础服务API不提供面试使用或者免费测试。[Face++API产品价格](https://www.faceplusplus.com.cn/v2/pricing-details/)
 2. 成熟度：从成熟度来看，对比Face++，百度人脸识别API对识别的图片像素和质量更高；所以，相对而言百度人脸识别技术比Face++的人脸识别技术准确率更高。 [百度人脸识别API的使用成熟度](https://ai.baidu.com/ai-doc/FACE/Lk37c1tpf)。而Face++人脸识别技术对识别图片的像素和质量并不是很高，所以其准确率比百度的较低。[Face++人脸识别API的使用成熟度](https://console.faceplusplus.com.cn/documents/4887586)
+3. 百度AI开放平台别和Face++人工智能开放平台的人脸识别接口调用和结果对比。[API调用对比](https://blog.csdn.net/lhh08hasee/article/details/89497511)
 
 - 高德地图API和百度地图API的使用比较
 
