@@ -68,22 +68,22 @@
 1. 登录/授权页面
 
 
-![](https://github.com/NFUNM067/API_ML_AI/blob/master/login.png)
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E6%8E%88%E6%9D%83.png)
 
-2. 刷脸考勤页面
-
-
-![](https://github.com/NFUNM067/API_ML_AI/blob/master/face.png)
-
-3. 考勤记录页面
+2. 定位页面
 
 
-![](https://github.com/NFUNM067/API_ML_AI/blob/master/records.png)
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E8%80%83%E5%8B%A4.png)
 
-4. 我的页面
+3. 人脸识别考勤页面
 
 
-![](https://github.com/NFUNM067/API_ML_AI/blob/master/my.png)
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB.png)
+
+4. 考勤成功页面
+
+
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E8%80%83%E5%8B%A4%E6%88%90%E5%8A%9F.png)
 
 ## （七）信息设计 
 
@@ -169,6 +169,4 @@
 
 1. 当人脸识别错误的话，可以手动输入不同处的关键词，帮助机器学习更正自己来给用户最正确的答案。
 2. 当人脸识别失败的话，就用幽默的方式告诉用。第一次识别错误：‘因为近视无法识别清楚用户身份，请您在光亮充足的地方进行人脸识别’；第二次识别错误：‘因为学习不用功，忘记了这个东西的名称，可以发送反馈留言，后台客服妹妹将为您亲自解答。’
-
-Update README.md
 
