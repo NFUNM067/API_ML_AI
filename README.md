@@ -150,11 +150,10 @@
 
 所以，百度人脸识别提供6种在线/离线活体检测方案，支持图片质量校验、多帧图片识别，有效抵御照片、视频翻拍、3D模型等作弊行为。这利用高精度的人脸识别、对比能力，搭建考勤系统，提升考勤效率，提高防作弊能力
 
-- 百度API与Face++API使用比较
+- 百度人脸识别API与Face++人脸识别API使用比较
 
-1. 性价比：从性价比来看，与Face++对比，百度API有更多的免费额度给我们使用，百度一些基础服务API，如人脸对比，活体检测等一些基础服务API可以供我们免费调用，而且调用量可以扩充至更多。[百度API产品价格](http://ai.baidu.com/ai-doc/FACE/Uk37c1m9b)。而Face++API的性价比明显比百度API低，它的产品价格相对来说没有百度API的实惠，而且有很多基础服务API不提供面试使用或者免费测试。[Face++API产品价格](http://ai.baidu.com/ai-doc/FACE/Uk37c1m9b)
-2. 
-
+1. 性价比：从性价比来看，与Face++对比，百度API有更多的免费额度给我们使用，百度一些基础服务API，如人脸对比，活体检测等一些基础服务API可以供我们免费调用，而且调用量可以扩充至更多。[百度API产品价格](http://ai.baidu.com/ai-doc/FACE/Uk37c1m9b)。而Face++API的性价比明显比百度API低，它的产品价格相对来说没有百度API的实惠，而且有很多基础服务API不提供面试使用或者免费测试。[Face++API产品价格](https://www.faceplusplus.com.cn/v2/pricing-details/)
+2. 成熟度：从成熟度来看，对比Face++，百度人脸识别API对识别的图片像素和质量更高；所以，相对而言百度人脸识别技术比Face++的人脸识别技术准确率更高。 [百度人脸识别API的使用成熟度](https://ai.baidu.com/ai-doc/FACE/Lk37c1tpf)。而Face++人脸识别技术对识别图片的像素和质量并不是很高，所以其准确率比百度的较低。[Face++人脸识别API的使用成熟度](https://console.faceplusplus.com.cn/documents/4887586)。
 
 
 ## （十二）使用后风险报告
