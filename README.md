@@ -1,7 +1,7 @@
 发布日期    | 2019-12-1 
 ---------|------
 史诗名称     | 人脸考勤小程序
-文件现状     | 进行中 
+文件现状     | 已完成 
 文件主人     | 莫欣妹 
 领头的设计师 | 莫欣妹 
 领头的开发者 | 莫欣妹  
@@ -111,8 +111,19 @@
 - 接口地址：[https://aip.baidubce.com/rest/2.0/face/v3/match](https://aip.baidubce.com/rest/2.0/face/v3/match)
 - 请求方法：POST
 - 输入
+
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E4%BA%BA%E8%84%B8%E5%AF%B9%E6%AF%94%E8%BE%93%E5%85%A5%E4%BB%A3%E7%A0%81.png)
+
+
+
 - 输出
+
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E4%BA%BA%E8%84%B8%E5%AF%B9%E6%AF%94%E8%BE%93%E5%87%BA%E4%BB%A3%E7%A0%81.png)
+
+
 - 测试结果
+
+
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E4%BA%BA%E8%84%B8%E5%AF%B9%E6%AF%94%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C.png)
 
 
