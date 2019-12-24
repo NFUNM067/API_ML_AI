@@ -91,9 +91,9 @@
 
 ## （八）原型文档 
 
-[原型文档下载区](https://github.com/NFUNM067/Product-document)
+[原型文档下载区](https://github.com/NFUNM067/Prototype-document)
 
-[原型文档交互展示](https://github.com/NFUNM067/Product-document)
+[原型文档交互展示]( http://nfunm067.gitee.io/api_final_project_prototype)
 
 ## （九）口头操作说明
 
