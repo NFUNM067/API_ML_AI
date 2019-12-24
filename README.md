@@ -1,4 +1,4 @@
-发布日期    | 2019-12-1 
+发布日期    | 2019-12-24 
 ---------|------
 史诗名称     | 人脸考勤小程序
 文件现状     | 已完成 
@@ -70,30 +70,40 @@
 
 ![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E6%8E%88%E6%9D%83.png)
 
-2. 定位页面
+2. 刷脸考勤页面
 
 
-![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E8%80%83%E5%8B%A4.png)
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E5%88%B7%E8%84%B8%E8%80%83%E5%8B%A4.png)
 
-3. 人脸识别考勤页面
-
-
-![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB.png)
-
-4. 考勤成功页面
+3. 考勤记录页面
 
 
-![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E8%80%83%E5%8B%A4%E6%88%90%E5%8A%9F.png)
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E8%80%83%E5%8B%A4%E8%AE%B0%E5%BD%95.png)
+
+4. 我的页面
+
+
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E6%88%91%E7%9A%84.png)
 
 ## （七）信息设计 
 
-信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值
 
-## （八）原型文档 
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E7%BB%93%E6%9E%84%E5%9B%BE.png)
+
+
+
+![](https://github.com/NFUNM067/API_ML_AI/blob/master/%E4%BA%BA%E8%84%B8%E8%80%83%E5%8B%A4%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+
+
+
+
+##  （八）原型文档 
 
 [原型文档下载区](https://github.com/NFUNM067/Prototype-document)
 
 [原型文档交互展示]( http://nfunm067.gitee.io/api_final_project_prototype)
+
+
 
 ## （九）口头操作说明
 
